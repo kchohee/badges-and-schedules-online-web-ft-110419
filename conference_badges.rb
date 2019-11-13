@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def badge_maker(name)
 p "Hello, my name is #{name}."
   end 
@@ -24,3 +25,5 @@ def printer(attendees)
     puts assignment
   end
 end 
+=======
+>>>>>>> 352b0e564191e2fe185539b51fa4d16fdb73208b
